@@ -130,10 +130,10 @@ La toute première chose que l'on voit, dès l'école primaire, c'est ce qu'on a
 
 Si on veut éviter de dessiner l'ensemble, on pourra le citer entre accolades.<br>
 Exemple avec les **éléments** a,b,c,d,e,f de l'<span style="color:blue">**ensemble**</span> A (penser à un ensemble comme à un "sac").<br>
-$A = \{a;b;c;d;e;f\}$
+$$A = \{a;b;c;d;e;f\}$$
 
 Équivaut à :<br>
-$A = \{d;e;f;a;b;c\}$
+$$A = \{d;e;f;a;b;c\}$$
 
 Il s'agit du même ensemble. L'ordre n'a pas d'importance.
 
