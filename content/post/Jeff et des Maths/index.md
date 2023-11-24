@@ -144,7 +144,7 @@ $h \not\in A$<br>
 
 Notion de <span style="color:lightskyblue">**sous-ensemble**</span> d'un ensemble (ou de **partie**).<br>
 Il s'agit d'un ensemble qui se trouve à l'intérieur d'un autre ensemble. Il s'agit d'un sac dans un autre sac.<br>
-$\{a;b;c\} \subset A$<br>
+$\\{a;b;c\\} \subset A$<br>
 
 Je peux citer maintenant un ensemble B, dont les éléments sont des ensembles.<br>
 $B = \\{\\{a;b\\};\\{a;c\\};\\{b;d;f\\}\\}$<br>
