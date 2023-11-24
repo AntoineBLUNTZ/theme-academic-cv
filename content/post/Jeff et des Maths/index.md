@@ -53,7 +53,7 @@ Lois de probabilités - 8. Test d'adéquation du Khi2 TD
     </li>
 </ol>
 
-## Ensembles ## 
+## <a name="Ensembles"></a> Ensembles ## 
 
 On a affaire à des <span style="color:lightskyblue">**évènements aléatoires**</span> et dont il faut savoir faire quelques <span style="color:lightskyblue">**prévisions**</span>. On va analyser des cas simples avec les objets de base suivants : pièces de monnaies (pile ou face), dés (6 faces), jeux de cartes (pique, cœur, carreau, trèfle)...<br>
 *Notes : Le mot hasard provient de l'arabe médieval "az-zahr" qui signifie le dé. Le mot aléa provient du latin "alea" (comme dans la fameuse expression de Jules César franchissant le Rubicon "alea jacta est") qui signifie le dé.*
