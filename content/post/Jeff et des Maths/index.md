@@ -133,7 +133,7 @@ Exemple avec les **éléments** a,b,c,d,e,f de l'<span style="color:lightskyblue
 $$A = \\{a;b;c;d;e;f\\}$$
 
 Équivaut à :<br>
-$$A = \{d;e;f;a;b;c\}$$
+$$A = \\{d;e;f;a;b;c\\}$$
 
 Il s'agit du même ensemble. L'ordre n'a pas d'importance.
 
@@ -147,9 +147,9 @@ Il s'agit d'un ensemble qui se trouve à l'intérieur d'un autre ensemble. Il s'
 $\{a;b;c\} \subset A$<br>
 
 Je peux citer maintenant un ensemble B, dont les éléments sont des ensembles.<br>
-$B = \{\{a;b\};\{a;c\};\{b;d;f\}\}$<br>
-$\{a;b\} \in B$<br>
-$\{a;b;c\} \not\in B$<br>
+$B = \\{\\{a;b\\};\\{a;c\\};\\{b;d;f\\}\\}$<br>
+$\\{a;b\\} \in B$<br>
+$\\{a;b;c\\} \not\in B$<br>
 $a \not\in B$<br>
 
 
