@@ -140,6 +140,15 @@ sections:
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
+        - certificate_url: uploads/2022_Licence_Pro_STID.pdf
+          date_end: ''
+          date_start: '2022-08-01'
+          description: ''
+          organization_logo: UniversityOfLorraine.png
+          organization: University of Lorraine
+          organization_url: https://cfa.univ-lorraine.fr/nos-formations/licences-pro/licence-pro-statistique-et-informatique-decisionnelle.html
+          title: BSc in Statistics and Data Science
+          url: ''
         - certificate_url: https://www.coursera.org
           date_end: ''
           date_start: '2021-01-25'
