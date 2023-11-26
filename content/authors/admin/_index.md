@@ -50,6 +50,9 @@ education:
     - course: MS in Asian Affairs
       institution: Sciences Po Lyon
       year: 2012
+    - course: Diploma in Contemporary Far Eastern World
+      institution: Sciences Po Lyon
+      year: 2008
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons

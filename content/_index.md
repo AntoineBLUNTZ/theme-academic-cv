@@ -65,7 +65,7 @@ sections:
         - title: Sales Agent & Data Analyst
           company: TVPaint Développement
           company_url: https://www.tvpaint.com/
-          company_logo: TVPaint-logo-butterfly
+          company_logo: TVPaint-logo_(transparent)
           location: France
           date_start: '2020-02-01'
           date_end: ''
@@ -78,7 +78,7 @@ sections:
         - title: Business Analyst
           company: XPO Logistics
           company_url: https://europe.xpo.com/
-          company_logo: XPO-Logistics
+          company_logo: XPOlogistics_(transparent)
           location: Luxembourg
           date_start: '2018-03-01'
           date_end: '2019-09-01'
@@ -91,7 +91,7 @@ sections:
         - title: Key Account Manager
           company: OEMServices
           company_url: https://oemservices.com/
-          company_logo: OEMServices
+          company_logo: OEMSlogo_(transparent)
           location: Singapore
           date_start: '2014-05-01'
           date_end: '2016-05-01'
@@ -99,7 +99,7 @@ sections:
         - title: Bid Manager
           company: OEMServices
           company_url: https://oemservices.com/
-          company_logo: OEMServices
+          company_logo: OEMSlogo_(transparent)
           location: Paris
           date_start: '2013-10-01'
           date_end: '2014-05-01'
@@ -148,6 +148,33 @@ sections:
           organization: University of Lorraine
           organization_url: https://cfa.univ-lorraine.fr/nos-formations/licences-pro/licence-pro-statistique-et-informatique-decisionnelle.html
           title: BSc in Statistics and Data Science
+          url: ''
+        - certificate_url: uploads/2013_ENSAM_diploma.pdf
+          date_end: ''
+          date_start: '2013-08-01'
+          description: ''
+          icon: ENSAM_(transparent)
+          organization: ENSAM Bordeaux
+          organization_url: https://artsetmetiers.fr/fr
+          title: MS in Aerospace Management
+          url: ''
+        - certificate_url: uploads/2012_SCIENCES_PO_diploma.pdf
+          date_end: ''
+          date_start: '2012-08-01'
+          description: ''
+          icon: Sciences-Po-Lyon-blue_(transparent)
+          organization: Sciences Po Lyon
+          organization_url: https://www.sciencespo-lyon.fr/
+          title: MS in Asian Affairs
+          url: ''
+        - certificate_url: uploads/2008_DUMEOC_Diplôme.pdf
+          date_end: ''
+          date_start: '2008-08-01'
+          description: ''
+          icon: Sciences-Po-Lyon-blue_(transparent)
+          organization: Sciences Po Lyon
+          organization_url: https://www.sciencespo-lyon.fr/
+          title: Diploma in Contemporary Far Eastern World
           url: ''
         - certificate_url: https://www.coursera.org
           date_end: ''
