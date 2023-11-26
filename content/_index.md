@@ -144,8 +144,7 @@ sections:
           date_end: ''
           date_start: '2022-08-01'
           description: ''
-          image:
-            filename: UniversityOfLorraine.png
+          icon: Charte-graphique-université-de-lorraine
           organization: University of Lorraine
           organization_url: https://cfa.univ-lorraine.fr/nos-formations/licences-pro/licence-pro-statistique-et-informatique-decisionnelle.html
           title: BSc in Statistics and Data Science
