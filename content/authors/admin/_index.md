@@ -44,6 +44,7 @@ education:
     - course: BSc in Statistics and Data Science
       institution: University of Lorraine
       year: 2022
+      link: uploads/2022_Licence_Pro_STID.pdf
     - course: MS in Aerospace Management
       institution: ENSAM Bordeaux
       year: 2013
